@@ -1,0 +1,1 @@
+**note**: the cad is NOT a frame but rather just a representation of kinda what the drone will look like. the real frame is in the BOM
